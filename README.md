@@ -1,7 +1,3 @@
-# vite-antDesign
-
-
-
 cd shared
 npm install
 npm run build
@@ -9,7 +5,7 @@ npm run preview
 
 
 
-# start from another tab:
+start from another tab:
 
 cd app
 npm install
